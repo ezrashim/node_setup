@@ -28,3 +28,5 @@ var wow = [
             ].join("\n");
 
 console.log(wow);
+
+console.log(wow);
